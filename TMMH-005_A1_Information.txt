@@ -97,7 +97,7 @@ MANUFACTURING INSTRUCTIONS
 4. Insert TMMH-003 onto the small end of TMMH-002.
 5. Insert TMMH-002 into one of the 4 large holes in TMMH-001 so that TMMH-002 is pointed away from 
  the milling machine.
-6, Slowly complete one rotation of the newly installed axis before completiting any more 
+6, Slowly complete one rotation of the newly installed axis before completing any more 
  installation steps. Ensure that the handle can rotate freely and is free from any obstructions.
 7. Insert TMMH-003 onto the small end of TMMH-001 that remains exposed through TMMH-001.
 8. Insert an M2.5 x 10mm screw into the small hole of TMMH-004 and apply one drop of 
