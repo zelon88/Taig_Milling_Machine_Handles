@@ -25,8 +25,7 @@ Along with the original source code files in .scad format you will also find ren
 * This handle design does not fit on the Taig 4th axis rotary table.
 * If you like this design, consider following & sponsoring me on Github, or other social media @zelon88.
 
----
-
+# Pictures
 ![Taig_Handles-5](https://github.com/zelon88/Taig_Milling_Machine_Handles/blob/main/TMMH-005_A1_Screenshot.png?raw=true)	
 ![Taig_Handles-6](https://github.com/zelon88/Taig_Milling_Machine_Handles/blob/main/TMMH-006_A1_Screenshot.png?raw=true)	
 ![Taig_Handles-1](https://github.com/zelon88/Taig_Milling_Machine_Handles/blob/main/TMMH-001_A1_Screenshot.png?raw=true)
