@@ -35,7 +35,7 @@
 // NOTE:  For component printing instructions; see the ".scad" file for the desired component.
 // PRINTER TYPE:  XYZPrinting da Vinci Jr. 1.0A Pro
 // SLICER:  XYZPrint Version 2.0.21 
-// NOZZLE DIAMETERDiameter:  0.40mm
+// NOZZLE DIAMETER:  0.40mm
 // NOZZLE MATERIAL:  Copper
 // NOZZLE TEMPERATURE:  210c
 // NOZZLE FIRST LAYER TEMPERATURE:  215c
